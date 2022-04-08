@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Program</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_clear">Clear</string>
+    <string name="request_hint">What are you interested in?</string>
+    <string name="action_stop_title">Stop</string>
+    <string name="action_clear_title">Clear</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="error_do_not_understand">I dont understand...</string>
+    <string name="error_tts_is_not_ready">TTS is not ready</string>
+    <string name="error_voice_recognition_unavailable">Voice recognition unavailable</string>
+</resources>

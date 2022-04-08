@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Программа</string>
+    <string name="action_stop">Стоп</string>
+    <string name="action_clear">Очистить</string>
+    <string name="request_hint">Что Вы ищете?</string>
+    <string name="action_stop_title">Остановить</string>
+    <string name="action_clear_title">Очистить</string>
+    <string name="error_something_went_wrong">Что-то пошло не так</string>
+    <string name="error_do_not_understand">Я Вас не понял...</string>
+    <string name="error_tts_is_not_ready">TTS не готов</string>
+    <string name="error_voice_recognition_unavailable">Распознование голоса недоступно</string>
+</resources>
